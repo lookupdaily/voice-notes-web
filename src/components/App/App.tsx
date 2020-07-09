@@ -8,5 +8,4 @@ export const App = () => {
       <Hello appName="Taped It"/>
     </div>
   );
-}
-
+};
